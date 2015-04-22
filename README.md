@@ -5,4 +5,4 @@ Experimenting with writing in Git
 * But I'll fake it
 * Markdown support is nice at least. 
 * 4-22-15
-* 
+* try again
